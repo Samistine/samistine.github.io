@@ -1,0 +1,20 @@
+#jenkins-home-link {
+    display: block;
+    background: url("https://samistine.com/img/mclogosmall.png") 0 0 no-repeat;
+    float: right;
+    top: 2px;
+    height: 38px;
+    width: 220px;
+}
+
+#jenkins-head-icon {
+    display: none;
+}
+
+#jenkins-name-icon {
+    display: none;
+}
+
+#header {
+    background-color: #6F1A1C;
+}
