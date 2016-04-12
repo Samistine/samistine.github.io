@@ -1,6 +1,7 @@
 #jenkins-home-link {
     display: block;
     background: url("https://samistine.com/img/mclogosmall.png") 0 0 no-repeat;
+    background-size: 130px;
     float: right;
     top: 2px;
     height: 38px;
@@ -16,5 +17,5 @@
 }
 
 #header {
-    background-color: #6F1A1C;
+    background-color: #1fddff;
 }
